@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente moro no Ceará. Faço programas em Python, e também estou aprendendo SQL, sempre atualizando e desenvolvendo minhas paradas.<br><br>Sou estudante de Análise e Desenvolvimento de Sistemas - atualmente 3° semestre<br>Focado no momento em BACKEND<br>Amo Programar e me sinto bem aprendendo mais tecnologias!<br>Nomes: ele/dele
+Atualmente moro no Ceará. Faço programas em C#, Java e também estou aprendendo SQL, sempre atualizando e desenvolvendo minhas paradas.<br><br>Sou estudante de Análise e Desenvolvimento de Sistemas - atualmente 4° semestre<br>Focado no momento em BACKEND<br>Amo Programar e me sinto bem aprendendo mais tecnologias!<br>Nomes: ele/dele
 
 
 ## 🌐 Socials:
