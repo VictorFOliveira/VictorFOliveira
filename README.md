@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente moro no Ceará. Faço programas em C#, Java e também estou aprendendo SQL, sempre atualizando e desenvolvendo minhas paradas.<br><br>Sou formado em analise e desenvolvimento de sistemas.<br>Focado no momento em BACKEND
+Atualmente moro no Ceará. Faço programas em C#, Java e também estou aprendendo SQL, sempre atualizando e desenvolvendo minhas paradas.<br>Sou formado em analise e desenvolvimento de sistemas.<br>Focado no momento em BACKEND
 <br>Amo Programar e me sinto bem aprendendo mais tecnologias!<br>
 
 
