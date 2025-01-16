@@ -1,25 +1,18 @@
 # 💫 About Me:
-Atualmente moro no Ceará. Desenvolvo aplicacoes utilizando C#, .NET e estou iniciando uma pós em administração de banco de dados. Sempre atualizando e desenvolvendo minhas paradas.<br>Sou formado em analise e desenvolvimento de sistemas pela Estácio.
-<br>Amo Programar e me sinto bem aprendendo mais tecnologias!<br>
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando uma pós-graduação em Administração de Banco de Dados. Tenho experiência no desenvolvimento de aplicações, com foco em Java e seus principais frameworks, mas também possuo conhecimentos em C# e PostgreSQL. Estou sempre em busca de novos desafios e de me atualizar nas tecnologias mais recentes.<br>Adoro programar e sinto uma grande satisfação em aprender e aplicar novos conceitos e ferramentas no desenvolvimento de sistemas.<br>Gosto de criar hamsters, e amo correr.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imvictordev) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/whiterabbit__) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victor_facundodev) 
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23239120.svg?style=plastic&logo=Microsoft%20SQL%20Server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300A4BB.svg?style=plastic&logo=mysql&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-%23239120.svg?style=plastic&logo=.net&logoColor=white) ![Dapper](https://img.shields.io/badge/Dapper-%2304B8A6.svg?style=plastic&logo=dapper&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-%23239120.svg?style=plastic&logo=entity-framework&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VictorFOliveira&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VictorFOliveira&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFOliveira&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VictorFOliveira&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VictorFOliveira&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=VictorFOliveira&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VictorFOliveira&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFOliveira&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VictorFOliveira&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=VictorFOliveira&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
